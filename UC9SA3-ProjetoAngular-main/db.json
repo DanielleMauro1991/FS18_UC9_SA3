@@ -27,12 +27,6 @@
       "descricao": "Black Friday vende pela metade do dobro, o Disco de Freio"
     },
     {
-      "id": 3,
-      "imagem": "assets/img/cardnews.jpg",
-      "titulo": "Renato Gaucho demitido",
-      "descricao": "Renato Gaucho foi demitido do Flamengo após jogo contra o Palmeiras"
-    },
-    {
       "id": 4,
       "imagem": "assets/img/cardnews.jpg",
       "titulo": "Black Friday derruba o preco do Disco de Freio",
@@ -49,6 +43,12 @@
       "imagem": "assets/img/cardnews.jpg",
       "titulo": "Black Friday derruba o preco do Disco de Freio",
       "descricao": "Black Friday vende pela metade do dobro, o Disco de Freio"
+    },
+    {
+      "imagem": "assets/img/canids.jpg",
+      "titulo": "Aligam-se outras casas",
+      "descricao": "Casas em oferta",
+      "id": 7
     }
   ]
 }
