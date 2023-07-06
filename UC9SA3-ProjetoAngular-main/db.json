@@ -49,6 +49,12 @@
       "titulo": "Aligam-se outras casas",
       "descricao": "Casas em oferta",
       "id": 7
+    },
+    {
+      "imagem": "assets/img/f1-logo.png",
+      "titulo": "Avaí subiu para a série A",
+      "descricao": "Avaí subiu para a série A do campeonato brasileiro",
+      "id": 8
     }
   ]
 }
